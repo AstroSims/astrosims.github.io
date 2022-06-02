@@ -20,4 +20,4 @@ Water Jobs - [TSR Download](https://www.thesimsresource.com/members/AstroBluu/do
 
 ### Support or Contact
 
-Having trouble with Mods? Check out my [TSR forums](https://forums.thesimsresource.com/profile/4170091-astrobluu/) or [CurseForge](https://www.curseforge.com/members/astroobluu/projects) and we’ll help you sort it out.
+Having trouble with Mods? Contact me on [TSR Forums](https://forums.thesimsresource.com/profile/4170091-astrobluu/) or [CurseForge](https://www.curseforge.com/members/astroobluu/projects) and i’ll help you sort it out.
