@@ -1,7 +1,7 @@
 # AstroBluu Mods HUB
 
 <p align="center">
-    // AstroBluu Mods HUB
+    # AstroBluu Mods HUB
 </p>
 
 ## New Mod Coming June 5th
