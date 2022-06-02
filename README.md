@@ -26,7 +26,7 @@ Kolekcja Praca dla nastolatków [Ściągnij](https://drive.google.com/file/d/1lf
 
 Having trouble with Mods? Contact me on [TSR Forums](https://forums.thesimsresource.com/profile/4170091-astrobluu/) or [CurseForge](https://www.curseforge.com/members/astroobluu/projects) and i’ll help you sort it out.
 
-If you want to support me feel free to subscribe to my patreon! Exclusive benefits apply per tier [Patreon](https://www.patreon.com/astrooo)
+If you want to support me feel free to subscribe to my patreon! Exclusive benefits apply per tier - [Patreon](https://www.patreon.com/astrooo)
 
 > Made By AstroBluu
 
