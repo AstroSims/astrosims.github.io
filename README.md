@@ -1,20 +1,22 @@
 # - - AstroBluu Mods HUB - -
 
-## New Mod Coming June 5th
+### News
 
-The new mod Teen Jobs Collection is out now. [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/teen-jobs-collection/id/1569759/)
-
-Teen Jobs Collection is a career pack for teens which includes 10 unique new careers for your sim teenagers, these careers are Tutor, Sport Coach, Pet Sitter, Model, Lifeguard, Librarian, Gardener, Dog Walker, Camp Counselor & Barber.
+- New Mod Coming June 5th - Jun 5, 2022
+- New Mod Teen Jobs Collection is OUT NOW! - Nov 1, 2021
+- New Mod Lawyer Career is OUT NOW! - Oct 26, 2021
+- New Mod Pilot Career is OUT NOW! - Oct 14, 2021
+- New Mod Water Jobs is OUT NOW! - Oct 8, 2021
 
 ### Mods
 
-Teen Jobs Collection - [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/teen-jobs-collection/id/1569759/)
+Teen Jobs Collection - [TSR Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/teen-jobs-collection/id/1569759/) - [CF Download](https://www.curseforge.com/simsfour/mods/teen-jobs-collection)
 
-Lawyer Career - [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/lawyer-career/id/1568410/)
+Lawyer Career - [TSR Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/lawyer-career/id/1568410/) - [CF Download](https://www.curseforge.com/simsfour/mods/lawyer-career)
 
-Water Jobs - [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/water-jobs-careers/id/1566081/)
+Pilot Career - [TSR Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/pilot-career/id/1566592/) - [CF Download](https://www.curseforge.com/simsfour/mods/pilot-career)
 
-Pilot Career - [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/pilot-career/id/1566592/)
+Water Jobs - [TSR Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/water-jobs-careers/id/1566081/) - [CF Download](https://www.curseforge.com/simsfour/mods/water-jobs-careers)
 
 ### Support or Contact
 
