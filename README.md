@@ -18,3 +18,6 @@ Pilot | [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/d
 ### Support or Contact
 
 Having trouble with Mods? Check out my [TSR forums](https://forums.thesimsresource.com/profile/4170091-astrobluu/) or [CurseForge](https://www.curseforge.com/members/astroobluu/projects) and we’ll help you sort it out.
+
+![TSR](https://astrobluu.weebly.com/uploads/1/3/9/3/139393537/tsr.jpg)
+![CF](https://astrobluu.weebly.com/uploads/1/3/9/3/139393537/curseforge.png))
