@@ -18,9 +18,15 @@ Pilot Career - [TSR Download](https://www.thesimsresource.com/members/AstroBluu/
 
 Water Jobs - [TSR Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/water-jobs-careers/id/1566081/) - [CF Download](https://www.curseforge.com/simsfour/mods/water-jobs-careers)
 
+### Translated Mods
+
+Kolekcja Praca dla nastolatków [Ściągnij](https://drive.google.com/file/d/1lfBVFro25-V59SjI1ePUGUMIoz5--oLt/view?usp=sharing)
+
 ### Support or Contact
 
 Having trouble with Mods? Contact me on [TSR Forums](https://forums.thesimsresource.com/profile/4170091-astrobluu/) or [CurseForge](https://www.curseforge.com/members/astroobluu/projects) and i’ll help you sort it out.
+
+If you want to support me feel free to subscribe to my patreon! Exclusive benefits apply per tier [Patreon](https://www.patreon.com/astrooo)
 
 > Made By AstroBluu
 
