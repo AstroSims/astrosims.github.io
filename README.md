@@ -8,13 +8,13 @@ Teen Jobs Collection is a career pack for teens which includes 10 unique new car
 
 ### Mods
 
-Teen Jobs Collection | [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/teen-jobs-collection/id/1569759/)
+Teen Jobs Collection - [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/teen-jobs-collection/id/1569759/)
 
-Lawyer | [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/lawyer-career/id/1568410/)
+Lawyer - [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/lawyer-career/id/1568410/)
 
-Water Jobs | [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/water-jobs-careers/id/1566081/)
+Water Jobs - [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/water-jobs-careers/id/1566081/)
 
-Pilot | [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/pilot-career/id/1566592/)
+Pilot - [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/pilot-career/id/1566592/)
 
 ### Support or Contact
 
