@@ -1,9 +1,5 @@
 # AstroBluu Mods HUB
 
-<p align="center">
-    # AstroBluu Mods HUB
-</p>
-
 ## New Mod Coming June 5th
 
 The new mod Teen Jobs Collection is out now. [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/teen-jobs-collection/id/1569759/)
