@@ -1,4 +1,4 @@
-# - - AstroBluu Mods HUB - -
+# - - AstroBluu Mods *HUB* - -
 
 ### News
 
