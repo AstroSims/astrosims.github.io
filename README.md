@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to the AstroBluu Sims 4 HUB
 
-You can use the [editor on GitHub](https://github.com/AstroSims/astrosims.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The new mod Teen Jobs Collection is out now. [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/teen-jobs-collection/id/1569759/)
+Teen Jobs Collection is a career pack for teens which includes 10 unique new careers for your sim teenagers, these careers are Tutor, Sport Coach, Pet Sitter, Model, Lifeguard, Librarian, Gardener, Dog Walker, Camp Counselor & Barber.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mods
 
-### Markdown
+All Created By AstroBluu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Teen Jobs Collection [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/teen-jobs-collection/id/1569759/)
 
-```markdown
-Syntax highlighted code block
+Lawyer [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/lawyer-career/id/1568410/)
 
-# Header 1
-## Header 2
-### Header 3
+Water Jobs [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/water-jobs-careers/id/1566081/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AstroSims/astrosims.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Pilot [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/pilot-career/id/1566592/)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Mods? Check out my [TSR forums](https://forums.thesimsresource.com/profile/4170091-astrobluu/) or [CurseForge](https://www.curseforge.com/members/astroobluu/projects) and we’ll help you sort it out.
