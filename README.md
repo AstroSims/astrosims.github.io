@@ -1,5 +1,9 @@
 # AstroBluu Mods HUB
 
+<p align="center">
+    // AstroBluu Mods HUB
+</p>
+
 ## New Mod Coming June 5th
 
 The new mod Teen Jobs Collection is out now. [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/details/category/sims4-mods-careers/title/teen-jobs-collection/id/1569759/)
@@ -19,6 +23,3 @@ Pilot | [Download](https://www.thesimsresource.com/members/AstroBluu/downloads/d
 ### Support or Contact
 
 Having trouble with Mods? Check out my [TSR forums](https://forums.thesimsresource.com/profile/4170091-astrobluu/) or [CurseForge](https://www.curseforge.com/members/astroobluu/projects) and we’ll help you sort it out.
-
-![TSR](https://astrobluu.weebly.com/uploads/1/3/9/3/139393537/tsr.jpg)
-![CF](https://astrobluu.weebly.com/uploads/1/3/9/3/139393537/curseforge.png)
