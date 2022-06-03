@@ -1,6 +1,4 @@
 
-![AstroBluu Green](https://github.com/AstroSims/astrosims.github.io/blob/398a23c3ff1f0a0e820cfdd69d96556336b9aa35/ABGTS.png)
-
 ### News
 
 - New Mod Coming June 5th - Jun 5, 2022
