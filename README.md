@@ -1,5 +1,5 @@
 
-![AstroBluu Green]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/AstroSims/astrosims.github.io/blob/398a23c3ff1f0a0e820cfdd69d96556336b9aa35/ABGTS.png))
+![AstroBluu Green](https://github.com/AstroSims/astrosims.github.io/blob/398a23c3ff1f0a0e820cfdd69d96556336b9aa35/ABGTS.png)
 
 ### News
 
